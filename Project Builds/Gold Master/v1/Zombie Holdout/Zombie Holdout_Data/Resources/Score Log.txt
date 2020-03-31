@@ -1,0 +1,3 @@
+Score Log
+Time Stamp: 30/03/2020 10:48:26 AM - bestTime,49.21269
+Time Stamp: 30/03/2020 10:48:26 AM - highScore,1100
